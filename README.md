@@ -1,6 +1,6 @@
 <h1>Example-Website</h1>
 
-I created a site using HTML and CSS,from a sample site.
+I created a site using BOOTSTRAP and HTMLfrom a sample site.
 
 <h2>Screen Gif</h2>
 
